@@ -5,7 +5,7 @@ import streamlit as st
 from PIL import Image
 import pickle
 
-model = pickle.load(open('./Model/ML_Model.pkl', 'rb'))
+model = pickle.load(open('new.pkl', 'rb'))
 
 
 def run():

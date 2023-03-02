@@ -4,4 +4,4 @@ pandas
 matplotlib
 streamlit==1.19.0
 Pillow
-seaoborn
+seaborn
